@@ -1,2 +1,1 @@
-# SQL-PowerBI_Project
 
